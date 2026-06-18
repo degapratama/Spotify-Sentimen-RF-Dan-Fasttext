@@ -1,0 +1,7 @@
+streamlit
+gensim
+scikit-learn
+imbalanced-learn
+numpy
+pandas
+joblib
